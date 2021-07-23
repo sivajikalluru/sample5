@@ -1,6 +1,6 @@
 pipeline {
 stages {
-stage("main env") {
+stage("qabranch env") {
 steps {
 bat("dir")
 }
